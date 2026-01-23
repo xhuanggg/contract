@@ -33,71 +33,71 @@ rearrange these labs and events to fit your needs.
 - [ ] Module 01, 01/12 - 01/16 : What is Data Science and Meet the
   Toolkit
 
-  - Finish Lab 1 by Friday: 01/16
+  - Finish Lab 1 by Monday: 01/12
 
 - [ ] Module 02, 01/19 - 01/23 : Data and Visualization
 
-  - Finish Lab 2 by Friday: 01/23
-  - Propose your contract to Mason by Friday: 01/23
+  - Finish Lab 2 by Monday: 01/19
+  - Propose your contract to Mason by Monday: 01/19
 
 - [ ] Module 03, 01/26 - 01/30 : Grammar of data wrangling
 
-  - Finish Lab 3 by Friday: 01/30
-  - Finish portfolio piece 1 by Friday: 01/30
+  - Finish Lab 3 by Monday: 01/26
+  - Finish portfolio piece 1 by Monday: 01/26
 
 - [ ] Module 04, 02/02 - 02/06 : Data types and Data Transformations
 
-  - Finish Lab 4 by Friday: 02/06
+  - Finish Lab 4 by Monday: 02/02
 
 - [ ] Module 05, 02/09 - 02/13 : Tips for effective data visualization
 
-  - Finish Lab 5 by Friday: 02/13
-  - Finish portfolio piece 2 by Friday: 02/13
+  - Finish Lab 5 by Monday: 02/09
+  - Finish portfolio piece 2 by Monday: 02/09
 
 - [ ] Module 06, 02/16 - 02/20 : Scientific studies and confounding
 
-  - Finish Lab 6 by Friday: 02/20
-  - Schedule a check-in with Mason by Friday: 02/20
+  - Finish Lab 6 by Monday: 02/16
+  - Schedule a check-in with Mason by Monday: 02/16
 
 - [ ] Module 07, 02/23 - 02/27 : Web scraping
 
-  - Finish Lab 7 by Friday: 02/27
-  - Finish portfolio piece 3 by Friday: 02/27
+  - Finish Lab 7 by Monday: 02/23
+  - Finish portfolio piece 3 by Monday: 02/23
 
 - [ ] Module 08, 03/02 - 03/06 : Functions
 
-  - Finish Lab 8 by Friday: 03/06
+  - Finish Lab 8 by Monday: 03/02
 
 - [ ] Module 09, 03/09 - 03/13 : Data and Ethics
 
-  - Finish Lab 9 by Friday: 03/13
-  - Finish portfolio piece 4 by Friday: 03/13
+  - Finish Lab 9 by Monday: 03/09
+  - Finish portfolio piece 4 by Monday: 03/09
 
 - [ ] Module 10, 03/16 - 03/20 : Fitting and interpreting models
 
-  - Finish Lab 10 by Friday: 03/20
+  - Finish Lab 10 by Monday: 03/16
 
 - [ ] Module 11, 03/23 - 03/27 : Prediction and overfitting
 
-  - Finish Lab 11 by Friday: 03/27
-  - Finish portfolio piece 5 by Friday: 03/27
+  - Finish Lab 11 by Monday: 03/23
+  - Finish portfolio piece 5 by Monday: 03/23
 
 - [ ] Module 12, 03/30 - 04/03 : Cross validation
 
-  - Finish portfolio piece 6 by Friday: 04/03
+  - Finish portfolio piece 6 by Monday: 03/30
 
 - [ ] Module 13, 04/06 - 04/10 : Quantifying uncertainty
 
-  - Finish portfolio pieces 7 and 8 by Friday: 04/10
+  - Finish portfolio pieces 7 and 8 by Monday: 04/06
 
 - [ ] Module 14, 04/13 - 04/17 : Interactive web apps
 
-  - Finish portfolio piece 9 by Friday: 04/17
+  - Finish portfolio piece 9 by Monday: 04/13
 
 - [ ] Module 15, 04/20 - 04/24 : Special Topics
 
-  - Finish portfolio piece 10 by Friday: 04/24
+  - Finish portfolio piece 10 by Monday: 04/20
 
 - [ ] Portfolio completion and end-of-semester presentation
 
-  - Due on Friday: 04/24
+  - Due on Monday: 04/20
